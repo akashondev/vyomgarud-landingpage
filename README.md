@@ -1,16 +1,121 @@
-# React + Vite
+# VyomGarud (h1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page for **VyomGarud** — a UAV and drone systems company focused on military-grade reliability and advanced autonomous technology.
+Built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Lucide React**, this single-page website emphasizes **precision engineering, confidence, and futuristic design**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## React Compiler
+VyomGarud develops cutting-edge UAV systems with an emphasis on **robust performance**, **mission reliability**, and **AI-driven autonomy**.
+This landing page is designed to reflect the brand’s professional and high-tech identity through a clean, dark, and confident interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Fully responsive, mobile-first layout
+* Clean dark-themed design with accent orange `#ff7b00`
+* Smooth animations using **Framer Motion**
+* Modular, reusable React components
+* Tailwind CSS for modern, efficient styling
+* Optimized build via **Vite**
+
+---
+
+## 🏗️ Tech Stack
+
+| Tool                             | Purpose                           |
+| -------------------------------- | --------------------------------- |
+| **React (Vite)**                 | Frontend framework + fast bundler |
+| **Tailwind CSS**                 | Utility-first responsive styling  |
+| **Framer Motion**                | Animations and transitions        |
+| **Lucide React**                 | Lightweight icons                 |
+| **Poppins / Inter / Montserrat** | Typography                        |
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Create React + Vite project
+
+```bash
+npm create vite@latest vyomgarud-landing --template react
+cd vyomgarud-landing
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Tailwind CSS basic setup
+
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+Then add this inside your `tailwind.config.js`:
+
+```js
+content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+```
+
+And include Tailwind in your main CSS (e.g., `src/index.css`):
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+### 4. Install animations and icons
+
+```bash
+npm install framer-motion lucide-react
+```
+
+### 5. Run project
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in terminal (usually [http://localhost:5173](http://localhost:5173)).
+
+---
+
+## 🎨 Design Notes
+
+* **Theme:** Dark, modern, slightly military aesthetic
+* **Primary Colors:**
+
+  * Charcoal: `#0d0d0d`
+  * White: `#ffffff`
+  * Accent Orange: `#ff7b00`
+* **Fonts:** Poppins / Inter / Montserrat
+* **Icons:** Lucide React
+* **Animation:** Framer Motion for section transitions and hover effects
+
+---
+
+## 🖼️ Screenshots
+
+*Add your screenshots or GIFs here (around 4–5). Example layout below:*
+
+| Screenshot                                      |
+| ------------------------------------------------|
+| ![Hero](./screenshots/hero.png)                 |
+| ![About](./screenshots/about.png)               |
+| ![Capabilities](./screenshots/capabilities.png) |
+| ![Highlights](./screenshots/highlights.png)     |
+| ![Contact](./screenshots/contact.png)           |
+
+---
+
+## 📄 License
+
+This project is open for educational or demo purposes.
+© 2025 VyomGarud. All rights reserved.
