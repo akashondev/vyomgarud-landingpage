@@ -111,6 +111,7 @@ Open the local URL shown in terminal (usually [http://localhost:5173](http://loc
 | ![About](https://github.com/akashondev/vyomgarud-landingpage/blob/1682d6e236fcbe2d0c8067be95717612e535ed8d/Screenshot%202025-11-06%20220103.png)               |
 | ![Capabilities](https://github.com/akashondev/vyomgarud-landingpage/blob/1682d6e236fcbe2d0c8067be95717612e535ed8d/Screenshot%202025-11-06%20220130.png) |
 | ![Contact](https://github.com/akashondev/vyomgarud-landingpage/blob/1682d6e236fcbe2d0c8067be95717612e535ed8d/Screenshot%202025-11-06%20220209.png)           |
+| ![image](https://github.com/akashondev/vyomgarud-landingpage/blob/b9019036caeffd95aa756f6d537ca90fe2dd986d/Screenshot%202025-11-06%20220231.png)           |
 
 ---
 
