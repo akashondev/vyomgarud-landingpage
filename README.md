@@ -107,11 +107,10 @@ Open the local URL shown in terminal (usually [http://localhost:5173](http://loc
 
 | Screenshot                                      |
 | ------------------------------------------------|
-| ![Hero](./screenshots/hero.png)                 |
-| ![About](./screenshots/about.png)               |
-| ![Capabilities](./screenshots/capabilities.png) |
-| ![Highlights](./screenshots/highlights.png)     |
-| ![Contact](./screenshots/contact.png)           |
+| ![Hero](https://github.com/akashondev/vyomgarud-landingpage/blob/1682d6e236fcbe2d0c8067be95717612e535ed8d/Screenshot%202025-11-06%20220044.png)                 |
+| ![About](https://github.com/akashondev/vyomgarud-landingpage/blob/1682d6e236fcbe2d0c8067be95717612e535ed8d/Screenshot%202025-11-06%20220103.png)               |
+| ![Capabilities](https://github.com/akashondev/vyomgarud-landingpage/blob/1682d6e236fcbe2d0c8067be95717612e535ed8d/Screenshot%202025-11-06%20220130.png) |
+| ![Contact](https://github.com/akashondev/vyomgarud-landingpage/blob/1682d6e236fcbe2d0c8067be95717612e535ed8d/Screenshot%202025-11-06%20220209.png)           |
 
 ---
 
