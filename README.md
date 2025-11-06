@@ -1,4 +1,4 @@
-# VyomGarud (h1)
+# VyomGarud 
 
 A modern, responsive landing page for **VyomGarud** — a UAV and drone systems company focused on military-grade reliability and advanced autonomous technology.
 Built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Lucide React**, this single-page website emphasizes **precision engineering, confidence, and futuristic design**.
